@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md.Ahanaf Mubashshir Alvi
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
 - 📫 By my fb id you can reach me
 
 <!---
