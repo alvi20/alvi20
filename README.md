@@ -30,7 +30,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvi20)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvi20&theme=neon-palenight&border=DD2727)](https://git.io/streak-stats)
 
 
 
