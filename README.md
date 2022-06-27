@@ -15,7 +15,8 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvi20&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alvi20)](https://git.io/streak-stats)
 
 
 
