@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Md.Ahanaf Mubashshir Alvi
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and HTML CSS
-- 📫 By my fb id you can reach me
+- 👋 Hi,Myself is Alvi
+- 📫 By my fb id and mail you can reach me
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
