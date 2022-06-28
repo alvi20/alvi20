@@ -44,7 +44,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
 
 
